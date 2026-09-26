@@ -1,10 +1,10 @@
 {
   "name": "KAMRAN-MD",
-  "description": "Javascript WhatsApp bot made by SIGMATech",
+  "description": "Javascript WhatsApp bot made by DR KAMRAN",
   "logo": "https://files.catbox.moe/yaw0ai.jpg",
-  "keywords": ["KAMRAN-BOT"],
+  "keywords": ["KAMRAN-MD"],
   "success_url": "/",
-  "stack": "container",
+  "stack": "heroku-26",
   
   "env": {
     "MONGODB_URL": {
@@ -12,9 +12,9 @@
       "required": false
     },
     "DB_NAME": {
-      "description": "Database name for MongoDB (default: jawadmd-x10)",
+      "description": "Database name for MongoDB",
       "required": false,
-      "value": "kamran-x10"
+      "value": "drkamranx400"
     }
   },
 
@@ -22,6 +22,5 @@
     {
       "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
     }
-  ],
-  "stack": "heroku-26"
+  ]
 }
