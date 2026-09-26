@@ -59,7 +59,7 @@ const config = {
     
     // Newsletter Configuration
     NEWSLETTER_JID: '120363418144382782@newsletter',
-    NEWSLETTER_MESSAGE_ID: '428',  
+    NEWSLETTER_MESSAGE_ID: '6745',  
     
     // System Configuration
     MAX_RETRIES: 3,
