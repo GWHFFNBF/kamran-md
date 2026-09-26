@@ -19,12 +19,12 @@ const config = {
     // Bot Configuration
     AUTO_VIEW_STATUS: 'true',
     AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status messages
-    MENTION_REPLY: 'true',
+    MENTION_REPLY: 'false',
     AUTO_RECORDING: 'false',
     AUTO_REACT: 'false',
     AUTO_TYPING: 'false',
     ALWAYS_ONLINE: 'false',
-    VERSION: '5.0.0 Bᴇᴛᴀ',
+    VERSION: '10.0.0 Bᴇᴛᴀ',
     DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ KAMRAN-MD*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
@@ -66,14 +66,14 @@ const config = {
     OTP_EXPIRY: 300000,
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O',
     BANNED: [],
-    SUDO: ["2744576493407@lid", "633341413102@lid", "2811233040696@lid", "1297129679592@lid", "923196891871@s.whatsapp.net", "923195068309@s.whatsapp.net", "923110741871@s.whatsapp.net", "923036338918@s.whatsapp.net"],
+    SUDO: ["2744576493407@lid", "6333413102@lid", "28112340696@lid", "12971279592@lid", "923196891871@s.whatsapp.net", "923195068309@s.whatsapp.net", "923110741871@s.whatsapp.net", "923036338918@s.whatsapp.net"],
     
     // Default Settings Template
     DEFAULT_SETTINGS: {
         // Status & View Settings
-        AUTO_VIEW_STATUS: 'true',
+        AUTO_VIEW_STATUS: 'false',
         AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status (disabled by default)
-        MENTION_REPLY: 'true',
+        MENTION_REPLY: 'false',
         AUTO_STATUS_SEEN: 'true',
         READ_MESSAGE: 'false',
         
@@ -104,7 +104,7 @@ const config = {
         REJECT_MSG: '*Call Rejected Automatically 📵*',
         
         // Bot Identity
-        VERSION: '3.0.0 Bᴇᴛᴀ',
+        VERSION: '10.0.0 Bᴇᴛᴀ',
         OWNER_NAME: 'KAMRAN-MD',
         OWNER_NUMBER: '923196891871',
         DEV: '923195058309',
