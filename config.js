@@ -51,7 +51,7 @@ const config = {
     
     // Bot Identity
     BOT_NAME: 'KAMRAN-MD',
-    OWNER_NAME: 'KAMRAN-MD',
+    OWNER_NAME: 'DR KAMRAN',
     OWNER_NUMBER: '923195068309',
     DEV: '923195068309',
     IK_IMAGE_PATH: './lib/kamranmd.jpg',
@@ -66,7 +66,7 @@ const config = {
     OTP_EXPIRY: 300000,
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O',
     BANNED: [],
-    SUDO: ["2744576493407@lid", "6333413102@lid", "28112340696@lid", "12971279592@lid", "923196891871@s.whatsapp.net", "923195068309@s.whatsapp.net", "923110741871@s.whatsapp.net", "923036338918@s.whatsapp.net"],
+    SUDO: ["923196891871@s.whatsapp.net", "923195068309@s.whatsapp.net", "923110741871@s.whatsapp.net", "923036338918@s.whatsapp.net"],
     
     // Default Settings Template
     DEFAULT_SETTINGS: {
@@ -121,7 +121,7 @@ const config = {
         
         // Lists
         BANNED: [],
-        SUDO: ["274457654493407@lid", "63334141399102@lid", "281123343040696@lid", "129712961679592@lid", "923195068309@s.whatsapp.net", "923196891871@s.whatsapp.net", "923036338918@s.whatsapp.net", "923110741871@s.whatsapp.net"]
+        SUDO: ["923195068309@s.whatsapp.net", "923196891871@s.whatsapp.net", "923036338918@s.whatsapp.net", "923110741871@s.whatsapp.net"]
     }
 };
 
